@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Who are we?
 
-You can use the [editor on GitHub](https://github.com/WHS-SOLID-Jazz/ClubWebsite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+A new club at Whitney High School!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are **SOLID**.
 
-### Markdown
+### Why SOLID?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are: _Supporters_ of the music program, _One_ united jazz club, _Learners_ of jazz music and culture, _Inspirations_ to the world, & _Dedicated_ to perform for the community.
 
 ```markdown
 Syntax highlighted code block
