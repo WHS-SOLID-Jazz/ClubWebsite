@@ -14,6 +14,6 @@ We are: _Supporters_ of the music program, _One_ united jazz club, _Learners_ of
 
 ![Image](https://github.com/WHS-SOLID-Jazz/SOLID-Jazz/blob/main/Rest%20of%20Cabinet.png)
 
-### Support or Contact
+### YouTube Channel
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Interested in seeing our progress as a club? Check out our [youtube channel](https://youtube.com/channel/UCwTgxJHb8H2E9NzacMFTfhA) because you'll definitely miss out on our quality content!
