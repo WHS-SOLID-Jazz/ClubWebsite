@@ -10,7 +10,7 @@ We are: _Supporters_ of the music program, _One_ united jazz club, _Learners_ of
 
 ### Cabinet Members (2020-2021)
 
-![Image](Co-Presidents & Advisor.png)
+![Image](Co-Presidents & Advisor.png)s
 
 ![Image](Rest of Cabinet.png)
 
