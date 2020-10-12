@@ -10,7 +10,7 @@ We are: _Supporters_ of the music program, _One_ united jazz club, _Learners_ of
 
 ### Cabinet Members (2020-2021)
 
-![Image](https://github.com/WHS-SOLID-Jazz/SOLID-Jazz/blob/main/Co-Presidents%20%26%20Advisor.png)
+![Image](https://raw.githubusercontent.com/WHS-SOLID-Jazz/SOLID-Jazz/main/Co-Presidents%20%26%20Advisor.png)
 
 ![Image](https://github.com/WHS-SOLID-Jazz/SOLID-Jazz/blob/main/Rest%20of%20Cabinet.png)
 
